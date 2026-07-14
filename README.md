@@ -1,6 +1,7 @@
 # git-practice
 
 Welcome to my Git practice repository.
+I am an ICT undergraduate student at Chandpur Science and Technology University.
 
 ## Topics
 
